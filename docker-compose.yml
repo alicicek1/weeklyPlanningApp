@@ -1,0 +1,16 @@
+﻿services:
+  todoapp.api:
+    image: todoapp.api
+    build:
+      context: .
+      dockerfile: toDoApp.Api/Dockerfile
+    restart:
+      always
+
+  todoapp.command:
+    image: todoapp.command
+    build:
+      context: .
+      dockerfile: toDoaPP.Command/Dockerfile
+    restart:
+      always

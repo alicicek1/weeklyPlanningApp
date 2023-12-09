@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/dZxzrj0+I1ETeTGSp0Ev1rIQrEDbT8zWvJyxg9V0eSm3quYAOl3sAq5sJ+2NG0okAM1j8t/yirZkGTou7TOg==",
+  "success": true,
+  "projectFilePath": "/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/toDoApp.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/alicicek/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/alicicek/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

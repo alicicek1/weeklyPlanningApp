@@ -1,0 +1,11 @@
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/bin/Debug/net7.0/toDoApp.Core.deps.json
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/bin/Debug/net7.0/toDoApp.Core.dll
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/bin/Debug/net7.0/toDoApp.Core.pdb
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/obj/Debug/net7.0/toDoApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/obj/Debug/net7.0/toDoApp.Core.AssemblyInfoInputs.cache
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/obj/Debug/net7.0/toDoApp.Core.AssemblyInfo.cs
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/obj/Debug/net7.0/toDoApp.Core.csproj.CoreCompileInputs.cache
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/obj/Debug/net7.0/toDoApp.Core.dll
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/obj/Debug/net7.0/refint/toDoApp.Core.dll
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/obj/Debug/net7.0/toDoApp.Core.pdb
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Core/obj/Debug/net7.0/ref/toDoApp.Core.dll
