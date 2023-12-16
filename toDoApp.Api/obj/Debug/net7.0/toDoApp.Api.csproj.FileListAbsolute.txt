@@ -38,3 +38,4 @@
 /Users/alicicek/RiderProjects/toDoApp/toDoApp.Api/bin/Debug/net7.0/toDoApp.Core.pdb
 /Users/alicicek/RiderProjects/toDoApp/toDoApp.Api/bin/Debug/net7.0/toDoApp.Api.xml
 /Users/alicicek/RiderProjects/toDoApp/toDoApp.Api/obj/Debug/net7.0/toDoApp.Api.xml
+/Users/alicicek/RiderProjects/toDoApp/toDoApp.Api/obj/Debug/net7.0/toDoApp.Api.sourcelink.json

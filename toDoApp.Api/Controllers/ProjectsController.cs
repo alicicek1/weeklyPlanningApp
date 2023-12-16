@@ -14,7 +14,7 @@ public class ProjectsController : BaseController
     }
 
     [HttpGet]
-    [TokenRequired]
+    //[TokenRequired]
     [Produces("application/json")]
     public IActionResult GetWeeklyPlan()
     {

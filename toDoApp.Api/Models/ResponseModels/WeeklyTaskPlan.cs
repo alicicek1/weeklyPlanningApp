@@ -4,9 +4,7 @@ namespace toDoApp.Api.Models.ResponseModels;
 
 public class WeeklyTaskPlan : IResponse
 {
-    public Dictionary<string, List<TaskEntity>> DeveloperTasks { get; set; } =
-        new Dictionary<string, List<TaskEntity>>();
-
+    public Dictionary<string, List<TaskEntity>> DeveloperTasks { get; } = new();
     public int TotalDurationHours { get; set; }
     public string? TotalDurationString { get; set; }
 }
