@@ -38,8 +38,7 @@ using (var scope = host.Services.CreateScope())
 
     if (config.PlanningApiClientSetting != null && config.PlanningApiClientSetting.RequestingEndpoints.Any())
     {
-        foreach (var url in config.PlanningApiClientSetting.RequestingEndpoints)
-        {
+        var tasks = config.PlanningApiClientSetting.RequestingEndpoints.Select(url =>
             httpClient.GetAsync<ProjectModel>(url)
                 .ContinueWith(responseTask =>
                 {
@@ -56,7 +55,9 @@ using (var scope = host.Services.CreateScope())
                         });
                         WriteLine($"TaskEntity added. Id:{id}");
                     }
-                });
-        }
+                })
+        ).ToArray();
+
+        Task.WaitAll(tasks);
     }
 }
